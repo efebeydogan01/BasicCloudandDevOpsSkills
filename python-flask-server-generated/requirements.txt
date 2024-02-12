@@ -1,0 +1,9 @@
+connexion==2.14.2
+setuptools==69.0.3
+connexion[swagger-ui] >= 2.14.2
+
+Flask==2.2.5
+six==1.16.0
+tinydb==4.8.0
+
+setuppy-generator==2020.12.2
